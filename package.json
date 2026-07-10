@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anders-lundgren/web-ifc-babylon"
+    "url": "https://github.com/polyramus/web-ifc-babylon"
   },
   "author": "",
   "license": "MPL 2.0",
   "bugs": {
-    "url": "https://github.com/anders-lundgren/web-ifc-babylon/issues"
+    "url": "https://github.com/polyramus/web-ifc-babylon/issues"
   },
-  "homepage": "https://github.com/anders-lundgren/web-ifc-babylon#README",
+  "homepage": "https://github.com/polyramus/web-ifc-babylon#README",
   "devDependencies": {
     "@babylonjs/core": "^4.2.0",
     "@babylonjs/inspector": "^4.2.0",
